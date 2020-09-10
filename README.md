@@ -9,6 +9,7 @@ git clone git@github.com:... <br>
 git remote -v <br>
 git pull origin master --rebase <br>
 git push -u origin master <br>
+git push --all origin -u <br>
 git branch newbranch <br>
 git config --global --edit <br>
 git config --list <br>
