@@ -14,4 +14,4 @@ git branch newbranch <br>
 git config --global --edit <br>
 git config --list <br>
 git remote rm name(like origin) <br>
-git remote set-url
+git remote set-url origin
