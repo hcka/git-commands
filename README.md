@@ -13,4 +13,5 @@ git push --all origin -u <br>
 git branch newbranch <br>
 git config --global --edit <br>
 git config --list <br>
-git remote rm name(like origin)
+git remote rm name(like origin) <br>
+git remote set-url
